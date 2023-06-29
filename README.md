@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a personal projecr
+- 🔭 I’m currently working on a personal project.
 - 🌱 I’m currently learning Vue.js and rust.
 - ⚡ Free to join on interesting open-source projects.
 
