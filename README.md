@@ -5,6 +5,7 @@
 - ⚡ Free to join on interesting open-source projects.
 
   [![wakatime](https://wakatime.com/badge/user/97ee2cc0-b2a4-4cfd-a5ec-a3ec16e3fcf1.svg)](https://wakatime.com/@97ee2cc0-b2a4-4cfd-a5ec-a3ec16e3fcf1)
+  ![](https://komarev.com/ghpvc/?username=brayo-pip&style=plastic)
 
 
 <!--
