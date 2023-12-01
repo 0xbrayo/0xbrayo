@@ -4,8 +4,13 @@
 - 🌱 I’m currently learning Vue.js and flutter.
 - ⚡ Free to join on interesting open-source projects.
 
-  [![wakatime](https://wakatime.com/badge/user/97ee2cc0-b2a4-4cfd-a5ec-a3ec16e3fcf1.svg)](https://wakatime.com/@97ee2cc0-b2a4-4cfd-a5ec-a3ec16e3fcf1)
+  [![Code Time](https://wakatime.com/badge/user/97ee2cc0-b2a4-4cfd-a5ec-a3ec16e3fcf1.svg)](https://wakatime.com/@97ee2cc0-b2a4-4cfd-a5ec-a3ec16e3fcf1)
+  
+  
+  ![Brayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=brayo-pip&theme=transparent)
+  
 
+  ![Brayo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brayo&layout=compact)
 
 <!--
 **brayo-pip/brayo-pip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
