@@ -7,7 +7,7 @@
   [![Code Time](https://wakatime.com/badge/user/97ee2cc0-b2a4-4cfd-a5ec-a3ec16e3fcf1.svg)](https://wakatime.com/@97ee2cc0-b2a4-4cfd-a5ec-a3ec16e3fcf1)
   
   
-  ![Brayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xbrayo&theme=transparent)
+  ![Brayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xbrayo&show=reviews,discussions_started,discussions_answered&theme=transparent)
   
 
 
