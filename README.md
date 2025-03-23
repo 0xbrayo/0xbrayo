@@ -1,13 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [ActivityWatch](https://github.com/activityWatch/activityWatch).
-- 🌱 Playing around with [LLMs](https://github.com/Erikbjare/gptme) and stuff.
-- 📫 Reach me via:
-  - [Matrix](https://matrix.to/#/@0xbrayo:matrix.org)
-  - [Discord](https://discord.com/users/b.vuku)
-  - [Email](mailto:brayo@brayo.dev)
-
-  [![Code Time](https://wakatime.com/badge/user/97ee2cc0-b2a4-4cfd-a5ec-a3ec16e3fcf1.svg)](https://wakatime.com/@97ee2cc0-b2a4-4cfd-a5ec-a3ec16e3fcf1)
+- 🔭 I’m currently working on [ActivityWatch](https://github.com/ActivityWatch/ActivityWatch) and [gptme](https://github.com/gptme/gptme)
+- 🌱 Interested in LLMs, ML, [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self) projects and much more.
+- 📫 Reach me on [Discord](https://discord.com/users/b.vuku)
 
   ![Brayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xbrayo&show=reviews,discussions_started,discussions_answered&theme=transparent)
 
