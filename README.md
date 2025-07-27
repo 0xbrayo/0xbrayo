@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [ActivityWatch](https://github.com/ActivityWatch/ActivityWatch) and [gptme](https://github.com/gptme/gptme)
+- 🔭 I’m working on [ActivityWatch](https://github.com/ActivityWatch/ActivityWatch) and [gptme](https://github.com/gptme/gptme)
 - 🌱 Interested in LLMs, ML, [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self) projects and much more.
 - 📫 Reach me on [Discord](https://discord.com/users/b.vuku)
 
